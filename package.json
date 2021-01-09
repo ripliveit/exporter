@@ -1,0 +1,27 @@
+{
+  "name": "exporter",
+  "version": "1.0.0",
+  "description": "Exports data from Riplive.it API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripliveit/exporter.git"
+  },
+  "keywords": [
+    "export",
+    "data",
+    "api"
+  ],
+  "author": "Gabriele D'Arrigo <darrigo.g@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripliveit/exporter/issues"
+  },
+  "homepage": "https://github.com/ripliveit/exporter#readme",
+  "dependencies": {
+    "axios": "0.21.1"
+  }
+}
